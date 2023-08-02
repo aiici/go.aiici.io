@@ -27,7 +27,7 @@ require(['gitbook', 'jQuery'], function (gitbook, $) {
 		var $bookBody = $('.book-body');
 		var $divider = $('<div class="divider-content-summary">' +
 			               '<div class="divider-content-summary__icon">' +
-			                 '<i class="fa fa-ellipsis-v"></i>' +
+			                 '<i class=""></i>' +
 			               '</div>' +
 			             '</div>');
 
